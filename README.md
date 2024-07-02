@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @JonasArmalis a 10th grade student from Lithuania. Beginner.
-- 👀 I’m interested in coding beginner projects in c++/python/javaScript.
-- 🌱 I’m currently learning C++ and Python.
+- 👋 Hi, I’m @JonasArmalis a student from Lithuania
 - 📫 How to reach me: jonasarmalis60@gmail.com
 
 <!---
